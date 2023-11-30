@@ -1,0 +1,30 @@
+[
+    {
+        "path": "/de/404.html",
+        "matchPath": "/de/404.html"
+    },
+    {
+        "path": "/de/first-post/",
+        "matchPath": "/de/first-post/"
+    },
+    {
+        "path": "/de/page-2/",
+        "matchPath": "/de/page-2/"
+    },
+    {
+        "path": "/de/page-3/",
+        "matchPath": "/de/page-3/"
+    },
+    {
+        "path": "/de/second-post/",
+        "matchPath": "/de/second-post/"
+    },
+    {
+        "path": "/de/",
+        "matchPath": "/de/"
+    },
+    {
+        "path": "/de/404/",
+        "matchPath": "/de/*"
+    }
+]
